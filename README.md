@@ -1,24 +1,15 @@
-# README
+zz2rails App
+============
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Powerful Software
+-----------------
 
-Things you may want to cover:
+### Welcome to the repository
 
-* Ruby version
+Feel free to access [my portfolio](http://zz2rails.herokuapp.com)
 
-* System dependencies
+> ## Rails 5 Application : Day by day I'm going to add my topics from basics to advanced
 
-* Configuration
+### Crazy good software development
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. 21st Jun 2017 - Just added Welcome page in this Rails app.
