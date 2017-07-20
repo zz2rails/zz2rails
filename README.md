@@ -13,3 +13,4 @@ Feel free to access [my portfolio](http://zz2rails.herokuapp.com)
 ### Crazy good software development
 
 1. 21st Jun 2017 - Just added Welcome page in this Rails app.
+				 - Added Bootstrap and Jquery gems to the app.
